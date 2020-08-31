@@ -1,4 +1,4 @@
-# examples of answer point
+# Examples of Answer Points
 
 1. From the Stack Overflow answer [Difference between CopyOnWriteArrayList and synchronizedList](https://stackoverflow.com/questions/28979488/difference-between-copyonwritearraylist-and-synchronizedlist), We extract 3 answer points: "CopyOnWriteArrayList uses ReentrantLock.","CopyOnWriteArrayList creates a backup copy of the data.", "CopyOnWriteArrayList updates underlying volatile array reference only  via setArray.", from the sentence "CopyOnWriteArrayList uses ReentrantLock and creates a backup copy of the data and the underlying volatile array reference is only updated via setArray".
 
