@@ -6,4 +6,4 @@
 
 3. From the Stack Overflow answer [What is the difference between a JFrame and a JDialog?](https://stackoverflow.com/questions/5552833/what-is-the-difference-between-a-jframe-and-a-jdialog), We extract 2 answer points: "JFrame inherit from Window","JDialog inherit from Window", from the sentence "But both inherit from Window, so they share much functionality.".
 
-For all answer point results, you can view the [file](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/question_select/answer_point.xlsx)
+For all answer point results, you can view the [file](https://github.com/FudanSELab/Research-ASE2020-APIComp/blob/master/question_select/answer_point.xlsx)

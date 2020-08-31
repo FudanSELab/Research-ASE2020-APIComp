@@ -8,4 +8,4 @@
 3. From the Stack Overflow question [Differences between HashMap and Hashtable?](https://stackoverflow.com/questions/40471/differences-between-hashmap-and-hashtable), the scenario description "Which is more efficient for non-threaded applications?" is proposed by the questioner of the post. The comparison APIs are java.util.HashMap and java.util.Hashtable.
 
 
-For all API selection task results, you can view the [file](https://github.com/APIComparison2020/APIComparison2020.github.io/blob/master/RQ6/result/GA/)
+For all API selection task results, you can view the [file](https://github.com/FudanSELab/Research-ASE2020-APIComp/blob/master/RQ6/result/GA/)
